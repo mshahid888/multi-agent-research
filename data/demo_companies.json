@@ -1,0 +1,54 @@
+{
+  "bluefin": {
+    "company": "Bluefin Bakery Co.",
+    "findings": [
+      {
+        "kind": "about",
+        "text": "Bluefin Bakery Co. is a family-owned bakery chain with 12 stores across Oregon, founded in 1998."
+      },
+      {
+        "kind": "about",
+        "text": "Voted 'Best Bakery' by Portland Eats readers in 2025, Bluefin is known for its organic sourdough and loyal neighborhood following."
+      },
+      {
+        "kind": "firmographic",
+        "text": "Firmographics (fictional): founded 1998, 12 stores, family-owned, based in Portland, Oregon."
+      },
+      {
+        "kind": "signal",
+        "text": "Online orders are taken by phone and written into paper notebooks; the owners say they lose track of custom cake orders during the holiday rush."
+      },
+      {
+        "kind": "signal",
+        "text": "They are looking for a simple online ordering system before the next expansion, according to a recent interview."
+      }
+    ],
+    "note": "FICTIONAL — invented for demo purposes. Not a real company. All facts below are made up."
+  },
+  "nordwind": {
+    "company": "Nordwind Logistics GmbH",
+    "findings": [
+      {
+        "kind": "about",
+        "text": "Nordwind Logistics GmbH is a Hamburg-based freight forwarding company founded in 2011. The company operates a fleet of 40 trucks and employs 85 people across two warehouses near the Port of Hamburg."
+      },
+      {
+        "kind": "about",
+        "text": "Nordwind won the 2024 NordLogistik Award for sustainable transport and is known as a trusted regional carrier with long-standing customer relationships."
+      },
+      {
+        "kind": "firmographic",
+        "text": "Firmographics (fictional): founded 2011, 85 employees, headquarters Hamburg, fleet of 40 trucks, two warehouses."
+      },
+      {
+        "kind": "signal",
+        "text": "Customer inquiries are currently handled manually via shared email inboxes and spreadsheets, which the team describes as a growing bottleneck during peak season."
+      },
+      {
+        "kind": "signal",
+        "text": "The company is hiring three additional dispatchers to cope with the load, according to its careers page."
+      }
+    ],
+    "note": "FICTIONAL — invented for demo purposes. Not a real company. All facts below are made up."
+  }
+}
